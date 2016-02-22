@@ -143,6 +143,7 @@ Package.onUse(function (api) {
 	api.add_files('lib/codemirror/mode/sparql/sparql.js', "client");
 	api.add_files('lib/codemirror/mode/sql/sql.js', "client");
 	api.add_files('lib/codemirror/mode/stex/stex.js', "client");
+	api.add_files('lib/codemirror/mode/swift/swift.js', "client");
 	api.add_files('lib/codemirror/mode/tcl/tcl.js', "client");
 	api.add_files('lib/codemirror/mode/textile/textile.js', "client");
 	api.add_files('lib/codemirror/mode/tiddlywiki/tiddlywiki.js', "client");
